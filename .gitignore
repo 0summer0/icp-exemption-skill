@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Generated letters, previews, and intermediate HTML
+*.pdf
+*.png
+*.html
+
+# Local work and output directories
+build/
+deliverables/
+
+# Signature assets stay outside the repository
+*.heic
+*.heif
+*.jpg
+*.jpeg
+*.webp
+signature.png
+signatures/
